@@ -41,7 +41,7 @@ $ bash setup
 ```
 ```
 $ bash instahack.sh
-
+```
 
 * Run last command in new session
 
