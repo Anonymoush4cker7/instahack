@@ -1,9 +1,9 @@
-<h1 align="center">IG-HACK v1.0</h1>
+<h1 align="center">INSTAHACK</h1>
 <p align="center">
       A new automated script for Instagram Account hackig from bruteforce attack
 </p>
 
-## 🔍 ***About INSTAHACK***:
+# INSTAHACK
 
 ighack is a Shell based script which is officially made to test password strength of instagram account from termux with bruteforce attack
 
