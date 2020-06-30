@@ -5,7 +5,7 @@
 
 # About Instahack
 
-ighack is a Shell based script which is officially made to test password strength of instagram account from termux with bruteforce attack
+Ighack is a Shell based script which is officially made to test password strength of instagram account from termux with bruteforce attack
 
 
 
