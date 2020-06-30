@@ -1,0 +1,34 @@
+#bin/bash
+clear
+echo
+echo -e "$grn     installing...!"
+echo
+cd $HOME
+apt install python -y
+apt install python2 -y
+apt install tor -y
+pkg install wget -y
+clear
+echo
+echo -e "$grn      installing......!"
+echo
+pip install lolcat
+pip install wheel
+pip install --upgrade pip
+pip3 install requests --upgrade
+pip3 install requests[socks]
+pip3 install stem
+pip3 install instagram-py
+clear
+echo
+echo -e "$grn      installing.........!"
+echo
+cd $HOME
+wget -O ~/instapy-config.json "https://git.io/v5DGy"
+cd $HOME/ighack
+cd /data/data/com.termux/files/usr/etc/tor
+rm torrc
+cd $HOME/ighack
+mv torrc /data/data/com.termux/files/usr/etc/tor
+cd $HOME
+tor
