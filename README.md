@@ -11,7 +11,8 @@ ighack is a Shell based script which is officially made to test password strengt
 
 ![IMG_20200628_000546](https://user-images.githubusercontent.com/65849213/86072852-341beb00-baa0-11ea-8f9a-cf2a391aadcc.jpg)
 
-
+# Note
+This tool is under construction
 
 # Installation
 ```
