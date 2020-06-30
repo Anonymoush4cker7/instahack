@@ -27,6 +27,9 @@ $ pkg install git
 ```
 $ git clone https://github.com/Anonymoush4cker7/instahack
 ```
+
+
+# Usage
 ```
 $ ls
 ```
